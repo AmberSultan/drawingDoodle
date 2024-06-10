@@ -2,7 +2,7 @@
 The project is built using HTML, CSS, and JavaScript. Where you can Draw your Designs and save those designs in image form!!
 
 ### Visit Project at
-<a href="https://ambersultan.github.io/PixelParadise/ ">https://ambersultan.github.io/DrawingDoodle/ </a>
+<a href="https://ambersultan.github.io/drawingDoodle/ ">https://ambersultan.github.io/drawingDoodle/ </a>
 
 ## Features
 <ul>
